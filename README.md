@@ -1,4 +1,4 @@
-# Olá, muito prazer! Eu me chamo Will 🤙🏻
+# Olá, muito prazer!
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willianlribeiro&show_icons=true&theme=dark)
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=willianlribeiro&hide_progress=true&theme=dark)
